@@ -1,0 +1,22 @@
+{
+  "name": "play-1463145254",
+  "version": "0.0.0",
+  "authors": [
+    "Stephen Sawchuk <sawchuk@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.3"
+  }
+}

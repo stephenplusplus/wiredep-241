@@ -1,0 +1,16 @@
+{
+  "name": "play-1463145254",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp wiredep"
+  },
+  "keywords": [],
+  "author": "Stephen Sawchuk <sawchuk@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "wiredep": "^4.0.0"
+  }
+}
